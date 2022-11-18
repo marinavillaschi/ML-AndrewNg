@@ -1,0 +1,15 @@
+genre,num movies,ave rating/genre,ratings per genre
+Action,321,3.37,10377
+Adventure,234,3.42,8785
+Animation,76,3.63,2588
+Children,69,3.44,2472
+Comedy,326,3.36,8911
+Crime,139,3.54,4671
+Documentary,13,3.81,280
+Drama,342,3.61,10201
+Fantasy,124,3.37,4468
+Horror,56,3.2,1345
+Mystery,68,3.59,2497
+Romance,151,3.39,4468
+Sci-Fi,174,3.42,5894
+Thriller,245,3.44,7659
